@@ -9,3 +9,5 @@ This is Hari. This is my first project on github to practice on how to contribut
 I'm editing this in the new branch - 'readme-edits'
 
 -Hari.
+
+This line added in the new branch
